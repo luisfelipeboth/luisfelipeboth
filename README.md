@@ -62,7 +62,7 @@ I enjoy play computer games, even though I'm not being good at most of them, and
 ## 🖥️ Technologies and Tools: 
 <!-- <img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png" style="vertical-align:middle; margin: -50px 0px 0px 0px"> <!-- Avatar -->
 
-#### Languages:
+### Languages:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title= "Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
