@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+<!--- <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png"> --->
 
 </br>
 </br>
@@ -23,6 +23,8 @@
 </br>
 </br>
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;
 <a>
   <img src="https://i.ibb.co/6mN8G5S/016-translate.png" width="50" alt="translate" style="vertical-align:top; margin:0px 0px 0px 420px">
 </a>
@@ -58,7 +60,7 @@ I enjoy play computer games, even though I'm not being good at most of them, and
 
 
 ## 🖥️ Technologies and Tools: 
-<img width="300px" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png" style="vertical-align:middle; float:right; margin: -50px 0px 0px 0px"> <!-- Avatar -->
+<!-- <img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png" style="vertical-align:middle; margin: -50px 0px 0px 0px"> <!-- Avatar -->
 
 #### Languages:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title= "Python"/></code>
@@ -90,11 +92,10 @@ I enjoy play computer games, even though I'm not being good at most of them, and
 </br>
 
 <div id="container">
-<img src="https://i.ibb.co/x8h08Cx/012-mortarboard.png"  align="left" width="70px" display="inline" style="margin:0px 10px 0px 0px"/>
-<br>
+<img src="https://i.ibb.co/x8h08Cx/012-mortarboard.png"  align="left" width="70px" display="inline" style="margin:10px 10px 0px 0px"/>
+</br>
 <h2>Technologies I'm interested to learn more! </h2>
 
-<br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title = "PHP"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
