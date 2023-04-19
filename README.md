@@ -36,7 +36,7 @@ cellpadding="10">
 
 ## Olá, Devs!!
 
-Tenho 28 anos e atualmente me localizo em Ponta Porã/MS. Me apaixonei por programação no início do meu curso de graduação em Engenharia de Controle e Automação. Me considero Junior neste universo de programação e, quanto mais me insiro dentro dele, mais eu amo tudo isso!  <img  width="20px" src="https://i.ibb.co/z63dt3f/017-daily-health-app.png" alt="amor" style="margin-left:10px">
+Tenho 29 anos e atualmente me localizo em Ponta Porã/MS. Me apaixonei por programação no início do meu curso de graduação em Engenharia de Controle e Automação. Me considero Junior neste universo de programação e, quanto mais me insiro dentro dele, mais eu amo tudo isso!  <img  width="20px" src="https://i.ibb.co/z63dt3f/017-daily-health-app.png" alt="amor" style="margin-left:10px">
 
 Adoro jogar no computador, mesmo não sendo bom em muitos deles e, assim como vários outros devs, amo um bom café!
 </td>
@@ -45,7 +45,7 @@ Adoro jogar no computador, mesmo não sendo bom em muitos deles e, assim como v�
 
 ## Hello, Devs!!
 
-I'm 28 years old and currently situated in Ponta Porã/MS - Brazil. I fell in love with programming since the beggining of my graduation course in Control and Automation Engineering. I consider myself a Junior in the programming universe and, more I get inside it, more I get in love with it! 
+I'm 29 years old and currently situated in Ponta Porã/MS - Brazil. I fell in love with programming since the beggining of my graduation course in Control and Automation Engineering. I consider myself a Junior in the programming universe and, more I get inside it, more I get in love with it! 
   <img  width="20px" src="https://i.ibb.co/z63dt3f/017-daily-health-app.png" alt="amor" style="margin-left:10px">
 
 I enjoy play computer games, even though I'm not being good at most of them, and just like many others developers, I DO love coffee!
