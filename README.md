@@ -2,7 +2,7 @@
 
 </br>
 </br>
-<div dsplay="inline-block">
+<div display="inline-block">
  
  <h1 align="left">Luis Felipe Araújo Both</h1>
   <a href="https://www.linkedin.com/in/luis-felipe-both">
@@ -22,12 +22,6 @@
 <br><br>
 </br>
 </br>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;
-<a>
-  <img src="https://i.ibb.co/6mN8G5S/016-translate.png" width="50" alt="translate" style="vertical-align:top; margin:0px 0px 0px 420px">
-</a>
 
 <table border="0" width="100%"
 cellpadding="10">
@@ -106,7 +100,7 @@ I enjoy play computer games, even though I'm not being good at most of them, and
 <br>
 </br>
 
-<div dsplay="inline-block">
+<div display="inline-block">
  
  <h2 align="left">The rest about me!</h2>
   <a href="https://open.spotify.com/user/12168117353?si=4ac109d2fb784471">
@@ -115,17 +109,11 @@ I enjoy play computer games, even though I'm not being good at most of them, and
   <a href="mailto:luisboth@gmail.com?Subject=Hello%20Luis%20Felipe%20Both">
     <img align="left" width="50px" src="https://i.ibb.co/K0pNkkx/mail-inbox-app.png" alt="E-mail" style="vertical-align:top; margin:0px 0px 0px 10px">
   </a> 
-  <a href="https://steamcommunity.com/id/LuisBoth/">
-    <img align="left" width="50px" src="https://i.ibb.co/c2pbQB0/2230862-logo-media-social-steam-icon.png" alt="Steam" style="vertical-align:top; margin:0px 0px 0px 10px">
-  </a>
   <a href="https://www.discordapp.com/users/Luis Felipe Both#6543">
     <img align="left" width="50px" src="https://i.ibb.co/strXVXr/001-discord.png" alt="Discord" style="vertical-align:top; margin:0px 0px 0px 10px">
   </a>
   <a href="https://wa.me/5567999092746?text=Ola%20Luis%20Felipe%20Both">
     <img align="left" width="50px" src="https://i.ibb.co/2qgffQ9/002-whatsapp.png" alt="WhatsApp" style="vertical-align:top; margin:0px 0px 0px 10px">
-  </a>
-  <a href="https://www.twitch.tv/luisfelipeboth">
-    <img align="left" width="50px" src="https://i.ibb.co/MpXSZFf/003-twitch.png" alt="Twitch" style="vertical-align:top; margin:0px 0px 0px 10px">
   </a>
   <a href="https://t.me/LuisBoth">
     <img align="left" width="50px" src="https://i.ibb.co/VDDwK8N/006-telegram.png" alt="Telegram" style="vertical-align:top; margin:0px 0px 0px 10px">
