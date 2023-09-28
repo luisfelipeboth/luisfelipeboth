@@ -39,10 +39,10 @@ Adoro jogar no computador, mesmo não sendo bom em muitos deles e, assim como v�
 
 ## Hello, Devs!!
 
-I'm 29 years old and currently situated in Ponta Porã/MS - Brazil. I fell in love with programming since the beggining of my graduation course in Control and Automation Engineering. I consider myself a Junior in the programming universe and, more I get inside it, more I get in love with it! 
+I'm 29 years old and currently situated in Ponta Porã/MS - Brazil. I fell in love with programming since the beggining of my graduation course in Control and Automation Engineering. I consider myself a Junior in the programming universe and, the more I get inside it, the more I get in love with it! 
   <img  width="20px" src="https://i.ibb.co/z63dt3f/017-daily-health-app.png" alt="amor" >
 
-I enjoy play computer games, even though I'm not being good at most of them, and just like many others developers, I DO love coffee!
+I enjoy playing computer games, even though I'm not good at most of them, and just like many others developers, I DO love coffee!
 </td>
 
 </tr>
