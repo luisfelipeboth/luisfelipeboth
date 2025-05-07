@@ -30,7 +30,7 @@ cellpadding="10">
 
 ## Olá, Devs!!
 
-Tenho 29 anos e atualmente me localizo em Ponta Porã/MS. Me apaixonei por programação no início do meu curso de graduação em Engenharia de Controle e Automação. Me considero Junior neste universo de programação e, quanto mais me insiro dentro dele, mais eu amo tudo isso!  <img  width="20px" src="https://i.ibb.co/z63dt3f/017-daily-health-app.png" alt="amor" >
+Tenho 29 anos e atualmente me localizo em Blumenau/SC. Me apaixonei por programação no início do meu curso de graduação em Engenharia de Controle e Automação. Me considero Junior neste universo de programação e, quanto mais me insiro dentro dele, mais eu amo tudo isso!  <img  width="20px" src="https://i.ibb.co/z63dt3f/017-daily-health-app.png" alt="amor" >
 
 Adoro jogar no computador, mesmo não sendo bom em muitos deles e, assim como vários outros devs, amo um bom café!
 </td>
@@ -39,7 +39,7 @@ Adoro jogar no computador, mesmo não sendo bom em muitos deles e, assim como v�
 
 ## Hello, Devs!!
 
-I'm 29 years old and currently situated in Ponta Porã/MS - Brazil. I fell in love with programming since the beggining of my graduation course in Control and Automation Engineering. I consider myself a Junior in the programming universe and, the more I get inside it, the more I get in love with it! 
+I'm 29 years old and currently situated in Blumenau/SC - Brazil. I fell in love with programming since the beggining of my graduation course in Control and Automation Engineering. I consider myself a Junior in the programming universe and, the more I get inside it, the more I get in love with it! 
   <img  width="20px" src="https://i.ibb.co/z63dt3f/017-daily-health-app.png" alt="amor" >
 
 I enjoy playing computer games, even though I'm not good at most of them, and just like many others developers, I DO love coffee!
@@ -122,15 +122,6 @@ I enjoy playing computer games, even though I'm not good at most of them, and ju
 <br></br>
 <br></br>
 
-
-<div id="container">
-<img src="https://i.ibb.co/1230qQD/015-music.png"  align="left" width="70px" display="inline" style=""/>
-<br>
-<h2>Spotify Playing 🎧 </h2>
-</div>
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12168117353&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12168117353&redirect=true)
 
 ## GitHub Analytics 
 
